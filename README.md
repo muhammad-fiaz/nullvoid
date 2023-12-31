@@ -4,10 +4,12 @@
   <img alt="License" src="https://img.shields.io/badge/License-GNU%20General%20Public%20License%20v3-blue.svg">
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/muhammad-fiaz/nullvoid.svg">
   <img alt="Maintainer" src="https://img.shields.io/badge/Maintainer-Muhammad%20Fiaz-blueviolet">
-  <img alt="Commit Activity" src="https://img.shields.io/github/commit-activity/m/muhammad-fiaz/nullvoid">
   <img alt="Last Commit" src="https://img.shields.io/github/last-commit/muhammad-fiaz/nullvoid">
+        <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/muhammad-fiaz/nullvoid.svg">
+
 <img alt="GitHub stars" src="https://img.shields.io/github/stars/muhammad-fiaz/nullvoid.svg">
   <img alt="GitHub forks" src="https://img.shields.io/github/forks/muhammad-fiaz/nullvoid.svg">
+
 <br>
   <img alt="Follow me on GitHub" src="https://img.shields.io/github/followers/muhammad-fiaz?label=Follow&style=social">
 
