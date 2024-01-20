@@ -20,6 +20,7 @@
 
 nullvoid is a C++ application that brings mesmerizing terminal-based animation effects to your command line interface.
 
+**note:- this project is still in development**
 ## Installation
 ### Prerequisites
 - C++ compiler with C++11 support
